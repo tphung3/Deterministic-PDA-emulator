@@ -1,0 +1,13 @@
+5
+a^b^c^d^$
+a^c^$^E
+1
+1 5
+1 a E 1 a
+1 c E 2 c
+2 c E 2 c
+2 d c 3 E
+3 d c 3 E
+3 b a 4 E
+4 b a 4 E
+4 $ $ 5 E
